@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "title": "Introduction to AI and Machine Learning",
+      "content": "In this blog post, we explore the fundamental concepts of Artificial Intelligence and Machine Learning. We discuss various algorithms, applications, and the future potential of these technologies.",
+      "date": "2023-08-14"
+    },
+    {
+      "id": 2,
+      "title": "The Power of Data Visualization",
+      "content": "Data visualization is a powerful tool for conveying complex information in a comprehensible manner. This post delves into different visualization techniques, tools, and how they contribute to data-driven decision-making.",
+      "date": "2023-08-15"
+    },
+    {
+      "id": 3,
+      "title": "Mastering Python: Tips and Tricks",
+      "content": "Python is a versatile programming language. In this blog, we share advanced tips and tricks to enhance your Python skills. From list comprehensions to decorators, you'll learn how to write more efficient and elegant code.",
+      "date": "2023-08-16"
+    }
+  ]
+  
