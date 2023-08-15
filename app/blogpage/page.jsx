@@ -20,7 +20,7 @@ const BlogPage = async() => {
                             <div key={item.id} className="border border-gray-300 p-5" >
                                 <h1 className='text-xl text-center font-bold'> <Link href={`/blogpage/${item.id}`}>{item.title}</Link> </h1>
                                 <p className='text-sm my-2 text-justify'>{item.content}</p>
-                                <button className='btn border border-black-400' > <Link href={''} > Read More</Link> </button>
+                                <button className='btn border border-black-400' > <Link href={`/blogpage/${item.id}`} > Read More</Link> </button>
                             </div>
                         )
                     })
